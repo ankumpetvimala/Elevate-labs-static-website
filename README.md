@@ -3,7 +3,7 @@
 Welcome to my personal website showcasing my journey as a DevOps Intern at Elevate Labs!
 
 🌐 **Live Demo**
-[Visit My Website] https://pravalika-27.github.io/Elevate-labs-static-website/
+[Visit My Website] https://ankumpetvimala.github.io/Elevate-labs-static-website/
 
 📚 **Project Overview**
 This static website serves as a platform to introduce myself and share my internship experience. It highlights my role.
@@ -31,7 +31,7 @@ To deploy this website as a static site using GitHub Pages, I followed these ste
    - GitHub generated a live site link for hosting.
 
 4. **Access the Live Site**
-   - After enabling GitHub Pages, the site was accessible at  https://ankumpetavimala.github.io/Elevate-labs-static-website/ 
+   - After enabling GitHub Pages, the site was accessible at  https://ankumpetvimala.github.io/Elevate-labs-static-website/ 
 
 5. **Updating the Site**
    - Any updates pushed to the main branch are automatically reflected on the live site.
