@@ -28,7 +28,7 @@ To deploy this website as a static site using GitHub Pages, I followed these ste
    - GitHub generated a live site link for hosting.
 
 4. **Access the Live Site**
-   - After enabling GitHub Pages, the site was accessible at  
+   - After enabling GitHub Pages, the site was accessible at github
 
 5. **Updating the Site**
    - Any updates pushed to the main branch are automatically reflected on the live site.
