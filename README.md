@@ -5,7 +5,7 @@ Welcome to my personal website showcasing my journey as a DevOps Intern at Eleva
 📚 **Project Overview**
 This static website serves as a platform to introduce myself and share my internship experience. It highlights my role.
 
-![Uploading static.png…]()
+![static](https://github.com/user-attachments/assets/c14fe7b0-4b26-49b5-bc53-1252d3977997)
 
 
 🚀 **How I Hosted This Project on GitHub Pages**
