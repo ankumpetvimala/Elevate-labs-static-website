@@ -7,7 +7,6 @@ This static website serves as a platform to introduce myself and share my intern
 
 ![Uploading image.png…]()
 
-
 🚀 **How I Hosted This Project on GitHub Pages**
 To deploy this website as a static site using GitHub Pages, I followed these steps:
 
